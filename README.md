@@ -1,6 +1,6 @@
 # JWKS Server
 
-A basic RESTful JWKS server implemented in Python using Flask.
+A JWKS server implemented in Python using Flask.
 
 ## Features
 
